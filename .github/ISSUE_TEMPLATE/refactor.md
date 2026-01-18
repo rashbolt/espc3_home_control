@@ -1,7 +1,7 @@
 ---
 name: Refactor
 about: Code Cleaning
-title: "[REFACTOR]: Title"
+title: "[refactor]: "
 labels: refactor
 assignees: ''
 
