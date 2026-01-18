@@ -1,0 +1,2 @@
+Jeremy Lab - Good Video to understand TCP/P and other network related topics. Based in CISCO certification course.
+Link - https://www.youtube.com/watch?v=yM-XNq9ADlI

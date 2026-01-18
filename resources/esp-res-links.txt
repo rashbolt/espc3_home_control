@@ -1,0 +1,5 @@
+Component Registry - https://components.espressif.com/
+Developer Portal - https://developer.espressif.com/tags/component/
+RF Coexistence - https://docs.espressif.com/projects/esp-idf/en/stable/esp32c3/api-guides/coexist.html
+Home Portal ESP SDK - https://www.espressif.com/en/products/sdks/esp-idf
+Jumpstart - https://docs.espressif.com/projects/esp-jumpstart/en/latest/esp32/index.html
